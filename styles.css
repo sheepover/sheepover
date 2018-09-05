@@ -1,0 +1,25 @@
+
+
+body { background:#fff; font-family:verdana,sans-serif; }
+
+h1 { color:#ff739e; font-family:'Comic Sans', verdana; }
+
+.DASHEEPSITE { text-align:center; }
+
+img { max-width:100%; }
+.MEEE { width:388px; }
+
+p { font-size:20px; color:#c16f88; }
+p + p { font-size:20px; color:#ffd4ed; font-style:italic; }
+
+iframe { margin:0 auto; display:block; } 
+
+.shepcon { color:#ff739e; font-size:25px; }
+
+.SHEEPCONPIC { width:900px; } 
+
+object { display:block; border:1px solid #777; margin:0 auto; }
+
+.counter { font-size:0; display:block; margin-top:100px; text-align:center; }
+.counter span { font-size:16px; }
+.counter .num { display:inline-block; vertical-align: :middle; border:1px solid hotpink; padding:5px; font-size:16px; background:pink; color:#fff; font-weight:bold; margin:0 1px; }
